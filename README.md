@@ -1,1 +1,3 @@
 # myApp
+
+My personal application
